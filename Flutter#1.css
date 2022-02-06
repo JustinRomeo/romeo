@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.writeup {
+    width: 550px;
+    height: 210px;
+    margin-left: 710px;
+    margin-top: -360px;
+    color: #123e7d;
+}
+
+.writeup p{
+    font-size: 20px;
+    margin-top: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn a{
+    height: 50px;
+}
+
+.career img{
+    margin-top: 57px;
+}
